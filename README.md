@@ -3,4 +3,4 @@
 - Futuro Engenheiro Front-End 
 - Analise e desenvolvimento de sistemas 
 - Designer gáfico
-#### atualmente domino HTML & CSS muito bem.
+#### Atualmente domino HTML & CSS muito bem.
